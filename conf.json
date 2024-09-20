@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"appVersion": "1.0.0",
+	"client_id": "kd1unb4b3q4t58fwlpcbzcbnm76a8fp",
+	"dashboard_hash": "5a4da2ab3d5b47c9f9ce864e727b2cb346af1e3ea8b897fe8f704a97ff017619",
+	"details_hash": "e7acdecb05429a62f5984bdcb27ee938ae20543579bf73c3ae44e7c822bc4f54",
+	"inventory_hash": "a16feb991626027918d26488d4e8a4a4110beb76a09062255280abdac6740dd4",
+	"token_hash": "3093517e37e4f4cb48906155bcd894150aef92617939236d2508f3375ab732ce",
+	"directorypage_game_hash": "c7c9d5aad09155c4161d2382092dc44610367f3536aac39019ec2582ae5065f9",
+	"claimdroprewards_hash": "a455deea71bdc9015b78eb49f4acfbce8baa7ccbedd28e549bb025bd0f751930"
+}
