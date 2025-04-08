@@ -2,19 +2,19 @@
 
 A Windows application that automatically watches Twitch streams and claims drop rewards for you. No additional steps needed—just download and start using.
 
-## Usage
+## 🔨 Usage
 
 ```sh
 git clone https://github.com/phaoer/TwitchDropsMaster.git
 ```
 
-- Run exe
+- Install
 - Link your twitch account
 - Enjoy
 
 **The application does not include network acceleration features. Please ensure you can access [Twitch](https://www.twitch.tv/) before using it.**
 
-## Features
+## ⚡ Features
 
 - Fully automated: Automatically watches live streams and claims rewards.
 - Waiting mechanism: If no streamers are live for a game you like, TwitchDropsMaster will keep searching until a streamer goes live or you switch to a different game with active drops.
@@ -37,10 +37,6 @@ When the following prompt appears, please update in time.
 
 ![Tips](./images/tips.png)
 
-You only need to re-run：
-```sh
-git pull 
-```
 
-## License
+## 📜 License
 [MIT](https://github.com/phaoer/TwitchDropsMaster/blob/master/LICENSE)
