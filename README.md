@@ -8,7 +8,7 @@ A Windows application that automatically watches Twitch streams and claims drop 
 git clone https://github.com/phaoer/TwitchDropsMaster.git
 ```
 
-- Install
+- Run exe
 - Link your twitch account
 - Enjoy
 
