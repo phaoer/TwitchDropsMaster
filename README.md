@@ -19,6 +19,20 @@ git clone https://github.com/phaoer/TwitchDropsMaster.git
 
 **The application does not include network acceleration features. Please ensure you can access [Twitch](https://www.twitch.tv/) before using it.**
 
+## ⚙️ SOCKS5 Proxy Usage Tips
+
+### Global Setup
+
+**Environment Variables → User / System Variables → Add `HTTP_PROXY` and `HTTPS_PROXY`**
+
+### Temporary PowerShell Setup
+
+```powershell
+$env:HTTP_PROXY="http://127.0.0.1:1080"
+$env:HTTPS_PROXY="http://127.0.0.1:1080"
+./TwitchDropsMaster.exe
+```
+
 ## ⚡ Features
 
 - Fully automated: Automatically watches live streams and claims rewards.
